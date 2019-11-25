@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+      }
+    </style>
+  </defs>
+  <g id="Icon" transform="translate(-326 -242)">
+    <path id="Icon-2" data-name="Icon" class="cls-1" d="M17,6.2,15.8,5,11,9.8,6.2,5,5,6.2,9.8,11,5,15.8,6.2,17,11,12.2,15.8,17,17,15.8,12.2,11Z" transform="translate(321 237)"/>
+  </g>
+</svg>

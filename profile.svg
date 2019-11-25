@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="14.693" viewBox="0 0 15 14.693">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.697;
+      }
+
+      .cls-2 {
+        fill: #000;
+      }
+    </style>
+  </defs>
+  <g id="Symbol_83_1" data-name="Symbol 83 – 1" transform="translate(-22 -240.5)">
+    <g id="Group_2" data-name="Group 2" class="cls-1" transform="translate(22 240.5)">
+      <ellipse id="Ellipse_9" data-name="Ellipse 9" class="cls-2" cx="3.818" cy="3.974" rx="3.818" ry="3.974" transform="translate(3.674)"/>
+      <path id="Union_5" data-name="Union 5" class="cls-2" d="M0,5.88V3.632l.183-.064C.059,3.555-.005,3.544,0,3.536A9.374,9.374,0,0,1,7.462,0a9.643,9.643,0,0,1,7.521,3.6.076.076,0,0,1,.016.03h0v.011s0,0,0,0V5.88Z" transform="translate(0 8.814)"/>
+    </g>
+  </g>
+</svg>
